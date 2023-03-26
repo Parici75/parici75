@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋,
+
+
+- :man_technologist: I am a data scientist and ML engineer with a background in systems neuroscience :brain:
+- :art: I use statistical modelling and machine learning to build innovative data products
+- 📫 How to reach me: email me at benjamin.roland@hotmail.fr
 
 <!--
 **Parici75/parici75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
