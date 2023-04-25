@@ -2,7 +2,7 @@
 
 
 - :man_technologist: I am a data scientist and ML engineer with a background in systems neuroscience :brain:
-- :art: I use statistical modelling and machine learning to build innovative data products
+- :art: I use statistical modelling and machine learning to build innovative data products. More info : https://benjaminroland.onrender.com/work/
 - 📫 How to reach me: email me at benjamin.roland@hotmail.fr
 
 <!--
